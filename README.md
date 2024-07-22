@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @VeIUMI
+- 👀 I’m interested in Python and what it can do.
+- 🌱 I’m currently learning to prompt and a little bit of coding.
+- 💞️ I’m looking to collaborate on Python.
+- 📫 How to reach me: LinkedIn works fine.
+- 😄 Best citation: Ever tried. Ever failed. No Matter. Try again. Fail again. Fail better. - Samuel Beckett
+- ⚡ Fun fact: I know where Daniel Kübelböck went overboard.
